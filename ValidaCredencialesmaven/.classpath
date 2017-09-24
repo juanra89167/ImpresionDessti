@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="jersey-json-1.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DessTI/Downloads/mail-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DessTI/Downloads/jdom-2.0.2/jdom-2.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DessTI/Downloads/spring-boot-starter-thymeleaf-2.0.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DessTI/Downloads/spring-security-javaconfig-1.0.0.M1-dist/spring-security-javaconfig-1.0.0.M1/libs/spring-security-javaconfig-1.0.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DessTI/Downloads/spring-webmvc-4.3.0.RC2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DessTI/eclipse-workspace/ValidaCredencialesmavenviernes/ValidaCredencialesmaven/ValidaCredencialesmaven4/ValidaCredencialesmaven4/ValidaCredencialesmaven/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DessTI/eclipse-workspace/ValidaCredencialesmavenviernes/ValidaCredencialesmaven/ValidaCredencialesmaven4/ValidaCredencialesmaven4/ValidaCredencialesmaven/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DessTI/eclipse-workspace/ValidaCredencialesmavenviernes/ValidaCredencialesmaven/ValidaCredencialesmaven4/ValidaCredencialesmaven4/ValidaCredencialesmaven/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DessTI/eclipse-workspace/ValidaCredencialesmavenviernes/ValidaCredencialesmaven/ValidaCredencialesmaven4/ValidaCredencialesmaven4/ValidaCredencialesmaven/ifxjdbc-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DessTI/eclipse-workspace/ValidaCredencialesmavenviernes/ValidaCredencialesmaven/ValidaCredencialesmaven4/ValidaCredencialesmaven4/ValidaCredencialesmaven/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DessTI/eclipse-workspace/ValidaCredencialesmavenviernes/ValidaCredencialesmaven/ValidaCredencialesmaven4/ValidaCredencialesmaven4/ValidaCredencialesmaven/jasperreports-6.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DessTI/eclipse-workspace/ValidaCredencialesmavenviernes/ValidaCredencialesmaven/ValidaCredencialesmaven4/ValidaCredencialesmaven4/ValidaCredencialesmaven/jasperreports-fonts-6.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DessTI/eclipse-workspace/ValidaCredencialesmavenviernes/ValidaCredencialesmaven/ValidaCredencialesmaven4/ValidaCredencialesmaven4/ValidaCredencialesmaven/jasperreports-functions-6.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DessTI/eclipse-workspace/ValidaCredencialesmavenviernes/ValidaCredencialesmaven/ValidaCredencialesmaven4/ValidaCredencialesmaven4/ValidaCredencialesmaven/jasperreports-javaflow-6.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DessTI/eclipse-workspace/ValidaCredencialesmavenviernes/ValidaCredencialesmaven/ValidaCredencialesmaven4/ValidaCredencialesmaven4/ValidaCredencialesmaven/javax.mail-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DessTI/eclipse-workspace/ValidaCredencialesmavenviernes/ValidaCredencialesmaven/ValidaCredencialesmaven4/ValidaCredencialesmaven4/ValidaCredencialesmaven/jaxen-1.1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DessTI/eclipse-workspace/ValidaCredencialesmavenviernes/ValidaCredencialesmaven/ValidaCredencialesmaven4/ValidaCredencialesmaven4/ValidaCredencialesmaven/jespxml.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DessTI/eclipse-workspace/ValidaCredencialesmavenviernes/ValidaCredencialesmaven/ValidaCredencialesmaven4/ValidaCredencialesmaven4/ValidaCredencialesmaven/joda-time-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DessTI/eclipse-workspace/ValidaCredencialesmavenviernes/ValidaCredencialesmaven/ValidaCredencialesmaven4/ValidaCredencialesmaven4/ValidaCredencialesmaven/joda-time-2.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DessTI/eclipse-workspace/ValidaCredencialesmavenviernes/ValidaCredencialesmaven/ValidaCredencialesmaven4/ValidaCredencialesmaven4/ValidaCredencialesmaven/joda-time-2.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DessTI/eclipse-workspace/ValidaCredencialesmavenviernes/ValidaCredencialesmaven/ValidaCredencialesmaven4/ValidaCredencialesmaven4/ValidaCredencialesmaven/ojdbc7.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
